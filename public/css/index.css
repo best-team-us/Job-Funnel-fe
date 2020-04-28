@@ -559,7 +559,6 @@ footer h4 {
   color: #ffffff;
 }
 .landing-page {
-  background: #87CEEB;
   width: 100%;
 }
 @media (min-width: 651px) and (max-width: 800px) {
@@ -653,14 +652,15 @@ footer h4 {
   height: 50%;
   text-decoration: none;
   font-size: medium;
-  color: #3073AB;
+  color: #ffffff;
+  background: #3073AB;
   border: 1px solid #3073AB;
   border-radius: 3px;
 }
 .landing-page .bottom-content .button-div button:hover {
-  background: #3073AB;
+  background: #ffffff;
   border-radius: 5px;
-  color: #ffffff;
+  color: #3073AB;
 }
 @media (min-width: 651px) and (max-width: 800px) {
   .landing-page .bottom-content .button-div button {
@@ -1527,7 +1527,6 @@ footer h4 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #87CEEB;
 }
 @media (max-width: 350px) {
   .main-div {
@@ -1673,7 +1672,6 @@ footer h4 {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
-  background: #87CEEB;
 }
 .profile-section {
   display: flex;
@@ -1984,7 +1982,6 @@ footer h4 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #87CEEB;
 }
 @media (max-width: 350px) {
   .main-div2 {
